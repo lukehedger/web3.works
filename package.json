@@ -1,0 +1,22 @@
+{
+  "name": "web3.works",
+  "version": "1.0.0",
+  "description": "Web3 open source community website",
+  "scripts": {
+    "start": "live-server public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web3/web3.works.git"
+  },
+  "keywords": [
+    "web3",
+    "works"
+  ],
+  "author": "Web3 Works (https://web3.works/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web3/web3.works/issues"
+  },
+  "homepage": "https://github.com/web3/web3.works#readme"
+}
